@@ -1,0 +1,4 @@
+export enum AVAILABLECRYPTOCURRENCY {
+    NEP="NEP",
+    BUSD="BUSD"
+}
